@@ -26,19 +26,23 @@ Dataset column consist of :
 ## Consumer disputed over timely response
 ![image](https://github.com/jasonchristoo/servicecomplaint/assets/123045563/87e6bea8-3c29-4337-acdd-e195f10c4da2)
 
-Company	Consumer disputed?	count
-0	BANK OF AMERICA, NATIONAL ASSOCIATION	Yes	14387
-1	WELLS FARGO & COMPANY	Yes	11717
-2	EQUIFAX, INC.	Yes	10079
-3	JPMORGAN CHASE & CO.	Yes	9523
-4	CITIBANK, N.A.	Yes	6697
-5	Ocwen Financial Corporation	Yes	5719
-6	TRANSUNION INTERMEDIATE HOLDINGS, INC.	Yes	5638
-7	Experian Information Solutions Inc.	Yes	5330
-8	NATIONSTAR MORTGAGE LLC	Yes	3758
-9	CAPITAL ONE FINANCIAL CORPORATION	Yes	3655
-10	Navient Solutions, LLC.	Yes	3083
-11	U.S. BANCORP	Yes	2652
-12	Ditech Financial LLC	Yes	2463
-13	AMERICAN EXPRESS COMPANY	Yes	2253
-14	SYNCHRONY FINANCIAL	Yes	1965
+
+## Highest company with disputed customer 
+| Company | Consumer disputed?  | count |
+| :------------ |:---------------:| -----:|
+| 	BANK OF AMERICA, NATIONAL ASSOCIATION	| Yes	| 14387
+|	WELLS FARGO & COMPANY	| Yes	| 11717
+|	EQUIFAX, INC.	| Yes	| 10079
+|	JPMORGAN CHASE & CO.	| Yes	| 9523
+|	CITIBANK, N.A.	|Yes	|6697|
+|	Ocwen Financial Corporation	| Yes	| 5719|
+|	TRANSUNION INTERMEDIATE HOLDINGS, INC.	| Yes	| 5638
+|	Experian Information Solutions Inc.	| Yes	| 5330
+|	NATIONSTAR MORTGAGE LLC	| Yes	| 3758
+|	CAPITAL ONE FINANCIAL CORPORATION	| Yes	| 3655
+|	Navient Solutions, LLC.	| Yes	| 3083
+|	U.S. BANCORP	| Yes |	2652
+|	Ditech Financial LLC	| Yes	| 2463
+|	AMERICAN EXPRESS COMPANY	| Yes	| 2253
+|	SYNCHRONY FINANCIAL	| Yes	|1965
+
