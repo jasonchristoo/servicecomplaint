@@ -1,2 +1,2 @@
-# servicecomplaint
-To predict customer disputed or not
+# Predict complaint from customer
+Track historical data to predict customer disputed or not
